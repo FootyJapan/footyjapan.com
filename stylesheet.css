@@ -1,0 +1,11 @@
+body{background:url(images/bg.gif);border:0;color:#FFF;margin:30px;font-family:Arial,Verdana, Helvetica, sans-serif;}
+img{border:0;}
+a,a:link{color:red;text-decoration:none;outline:none;}
+a:hover{color:#00F;text-decoration:underline;outline:none;}
+a:active{color:#FF0000;text-decoration:underline;outline:none;}
+h1{font-size:10pt;padding-left:310px;}
+h2{font-size:10pt;}
+h3{font-size:12pt;font-weight:700;padding-left:5px;padding-right:5px;text-align:center;}
+h4{color:#fff;float:left;font-size:10pt;}
+tr.c2{background-color:#FFF;}
+tr.c1{background-color:red;}
